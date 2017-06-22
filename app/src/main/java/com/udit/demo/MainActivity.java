@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
     {
 
         Log.i("info" , "dba diya");
+        int a = 20+3+50+8+22;
+        Log.i("info2" , "hello world");
     }
 
     @Override
